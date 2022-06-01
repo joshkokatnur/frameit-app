@@ -1,0 +1,4 @@
+/* Bundle name */
+"CFBundleName" = "FrameIt";
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "FrameIt needs to access your photo library.";

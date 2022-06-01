@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>FrameIt.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>PhotoFramesWidgetExtensionExtension.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>PhotoFramesWidgetFinal.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>WidgetIntentExtension.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>574102B4251D20C900F64C2C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>575006AD2511D0050023862A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>575006BE2511D0060023862A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>575006C92511D0060023862A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>575006DF2511D0420023862A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

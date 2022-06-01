@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17709" systemVersion="20D5029f" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Entity" representedClassName="Entity" syncable="YES" codeGenerationType="class">
+        <attribute name="categoryId" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="createdAt" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="customColor" optional="YES" attributeType="String"/>
+        <attribute name="frameId" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="imageIdentifiers" optional="YES" attributeType="Binary"/>
+        <attribute name="scaleFactors" optional="YES" attributeType="Binary"/>
+        <attribute name="transforms" optional="YES" attributeType="Binary"/>
+        <attribute name="usersName" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Entity" positionX="-63" positionY="-18" width="128" height="149"/>
+    </elements>
+</model>
